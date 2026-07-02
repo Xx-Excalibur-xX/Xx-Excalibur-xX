@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <hr>
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xx-Excalibur-xXO&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xx-Excalibur-xX&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-Excalibur-xX&layout=compact&theme=github_dark)
 <!--
