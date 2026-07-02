@@ -27,11 +27,14 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=java,py,linux,vscode" alt="My Skills" />
   </a>
 </p>
-
-<hr>
+</br>
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xx-Excalibur-xX&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xx-Excalibur-xX&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-Excalibur-xX&layout=compact&theme=github_dark" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-Excalibur-xX&layout=compact&theme=github_dark)
-<!--
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Xx-Excalibur-xX&theme=github-dark"/>
+</p>
