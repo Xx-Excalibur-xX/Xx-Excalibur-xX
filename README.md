@@ -24,19 +24,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,linux,,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,linux,vscode" alt="My Skills" />
   </a>
 </p>
 
 <hr>
 
-## 📊 GitHub Stats
-
-<br>
-
-<p align="center">
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-Excalibur-xX&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
-</p>
-<br>
 <!--
