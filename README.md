@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I love make a simple games in Java
 - 🐧: I use Pop!_os with Kde
---> Extra fact: i want learn C and ASM and My IDE is Vs Code 
+-> Extra fact: i want learn C and ASM and My IDE is Vs Code 
 
 <hr>
 
