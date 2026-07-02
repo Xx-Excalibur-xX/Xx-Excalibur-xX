@@ -31,10 +31,5 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xx-Excalibur-xX&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-Excalibur-xX&layout=compact&theme=github_dark" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Xx-Excalibur-xX&theme=github-dark"/>
 </p>
