@@ -1,4 +1,4 @@
-## Hi there, I'm just a coder in World
+## Hi there, I'm just another programmer.
 
 <br>
 
@@ -29,5 +29,9 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xx-Excalibur-xXO&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-Excalibur-xX&layout=compact&theme=github_dark)
 <!--
