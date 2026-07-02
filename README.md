@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 </br>
 <hr>
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Xx-Excalibur-xX&theme=github-dark"/>
